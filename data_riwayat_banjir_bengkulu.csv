@@ -1,0 +1,24 @@
+ID,Lokasi,Tahun,Bulan,Ketinggian Air (cm),Jumlah KK Terdampak,Tingkat Kerusakan
+1,Rawa Makmur,2020,7,33.2,200,Berat
+2,Air Sebakul,2020,8,98.3,85,Berat
+3,Bentiring,2020,11,128.8,57,Berat
+4,Kandang Limun,2020,5,148.4,144,Sedang
+5,Kebun Tebeng,2020,11,58.4,55,Berat
+6,Beringin Raya,2020,5,100.0,172,Berat
+7,Rawa Makmur,2021,2,135.0,137,Berat
+8,Sawah Lebar,2021,3,108.5,158,Sedang
+9,Kandang Limun,2021,4,41.0,142,Sedang
+10,Kebun Tebeng,2021,11,100.3,125,Ringan
+11,Rawa Makmur,2022,2,43.6,56,Ringan
+12,Bentiring,2022,4,100.3,55,Sedang
+13,Pematang Gubernur,2022,9,108.5,199,Sedang
+14,Kandang Limun,2022,8,74.2,91,Berat
+15,Dusun Besar,2022,10,70.3,96,Sedang
+16,Kebun Tebeng,2022,1,72.7,142,Ringan
+17,Beringin Raya,2022,7,111.6,154,Sedang
+18,Air Sebakul,2023,4,30.2,74,Ringan
+19,Bentiring,2023,7,111.5,95,Berat
+20,Padang Harapan,2023,8,47.3,166,Ringan
+21,Kandang Limun,2023,4,31.6,107,Berat
+22,Kebun Tebeng,2023,7,83.3,169,Sedang
+23,Beringin Raya,2023,11,123.7,12,Berat

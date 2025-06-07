@@ -1,0 +1,385 @@
+ID,Stasiun,Tahun,Bulan,Curah Hujan (mm)
+1,Stasiun BMKG Bengkulu,2020,1,151.2
+2,Stasiun BMKG Bengkulu,2020,2,145.2
+3,Stasiun BMKG Bengkulu,2020,3,146.0
+4,Stasiun BMKG Bengkulu,2020,4,341.1
+5,Stasiun BMKG Bengkulu,2020,5,474.9
+6,Stasiun BMKG Bengkulu,2020,6,284.7
+7,Stasiun BMKG Bengkulu,2020,7,151.8
+8,Stasiun BMKG Bengkulu,2020,8,208.1
+9,Stasiun BMKG Bengkulu,2020,9,479.3
+10,Stasiun BMKG Bengkulu,2020,10,149.8
+11,Stasiun BMKG Bengkulu,2020,11,397.6
+12,Stasiun BMKG Bengkulu,2020,12,315.2
+13,Stasiun BMKG Bengkulu,2021,1,356.5
+14,Stasiun BMKG Bengkulu,2021,2,469.3
+15,Stasiun BMKG Bengkulu,2021,3,204.6
+16,Stasiun BMKG Bengkulu,2021,4,312.3
+17,Stasiun BMKG Bengkulu,2021,5,325.0
+18,Stasiun BMKG Bengkulu,2021,6,391.9
+19,Stasiun BMKG Bengkulu,2021,7,238.7
+20,Stasiun BMKG Bengkulu,2021,8,127.8
+21,Stasiun BMKG Bengkulu,2021,9,106.8
+22,Stasiun BMKG Bengkulu,2021,10,496.8
+23,Stasiun BMKG Bengkulu,2021,11,120.1
+24,Stasiun BMKG Bengkulu,2021,12,197.9
+25,Stasiun BMKG Bengkulu,2022,1,134.9
+26,Stasiun BMKG Bengkulu,2022,2,404.0
+27,Stasiun BMKG Bengkulu,2022,3,154.5
+28,Stasiun BMKG Bengkulu,2022,4,357.6
+29,Stasiun BMKG Bengkulu,2022,5,420.0
+30,Stasiun BMKG Bengkulu,2022,6,316.4
+31,Stasiun BMKG Bengkulu,2022,7,120.8
+32,Stasiun BMKG Bengkulu,2022,8,458.6
+33,Stasiun BMKG Bengkulu,2022,9,492.4
+34,Stasiun BMKG Bengkulu,2022,10,296.4
+35,Stasiun BMKG Bengkulu,2022,11,453.8
+36,Stasiun BMKG Bengkulu,2022,12,353.5
+37,Stasiun BMKG Bengkulu,2023,1,208.5
+38,Stasiun BMKG Bengkulu,2023,2,483.5
+39,Stasiun BMKG Bengkulu,2023,3,412.4
+40,Stasiun BMKG Bengkulu,2023,4,317.9
+41,Stasiun BMKG Bengkulu,2023,5,359.0
+42,Stasiun BMKG Bengkulu,2023,6,283.3
+43,Stasiun BMKG Bengkulu,2023,7,437.1
+44,Stasiun BMKG Bengkulu,2023,8,399.3
+45,Stasiun BMKG Bengkulu,2023,9,202.0
+46,Stasiun BMKG Bengkulu,2023,10,213.0
+47,Stasiun BMKG Bengkulu,2023,11,185.4
+48,Stasiun BMKG Bengkulu,2023,12,453.2
+49,Rawa Makmur,2020,1,248.6
+50,Rawa Makmur,2020,2,345.0
+51,Rawa Makmur,2020,3,485.3
+52,Rawa Makmur,2020,4,437.4
+53,Rawa Makmur,2020,5,112.2
+54,Rawa Makmur,2020,6,271.2
+55,Rawa Makmur,2020,7,287.9
+56,Rawa Makmur,2020,8,255.7
+57,Rawa Makmur,2020,9,331.2
+58,Rawa Makmur,2020,10,224.8
+59,Rawa Makmur,2020,11,132.5
+60,Rawa Makmur,2020,12,225.6
+61,Rawa Makmur,2021,1,403.3
+62,Rawa Makmur,2021,2,166.4
+63,Rawa Makmur,2021,3,191.8
+64,Rawa Makmur,2021,4,213.2
+65,Rawa Makmur,2021,5,371.7
+66,Rawa Makmur,2021,6,375.4
+67,Rawa Makmur,2021,7,197.0
+68,Rawa Makmur,2021,8,402.5
+69,Rawa Makmur,2021,9,478.0
+70,Rawa Makmur,2021,10,270.6
+71,Rawa Makmur,2021,11,446.9
+72,Rawa Makmur,2021,12,105.7
+73,Rawa Makmur,2022,1,411.1
+74,Rawa Makmur,2022,2,474.4
+75,Rawa Makmur,2022,3,301.4
+76,Rawa Makmur,2022,4,133.8
+77,Rawa Makmur,2022,5,214.9
+78,Rawa Makmur,2022,6,189.0
+79,Rawa Makmur,2022,7,139.4
+80,Rawa Makmur,2022,8,416.1
+81,Rawa Makmur,2022,9,485.7
+82,Rawa Makmur,2022,10,373.0
+83,Rawa Makmur,2022,11,332.6
+84,Rawa Makmur,2022,12,147.1
+85,Rawa Makmur,2023,1,479.6
+86,Rawa Makmur,2023,2,378.6
+87,Rawa Makmur,2023,3,298.7
+88,Rawa Makmur,2023,4,243.8
+89,Rawa Makmur,2023,5,359.5
+90,Rawa Makmur,2023,6,428.1
+91,Rawa Makmur,2023,7,293.9
+92,Rawa Makmur,2023,8,381.9
+93,Rawa Makmur,2023,9,288.6
+94,Rawa Makmur,2023,10,360.3
+95,Rawa Makmur,2023,11,242.3
+96,Rawa Makmur,2023,12,304.4
+97,Sawah Lebar,2020,1,249.0
+98,Sawah Lebar,2020,2,195.4
+99,Sawah Lebar,2020,3,162.0
+100,Sawah Lebar,2020,4,241.2
+101,Sawah Lebar,2020,5,264.1
+102,Sawah Lebar,2020,6,379.7
+103,Sawah Lebar,2020,7,481.5
+104,Sawah Lebar,2020,8,492.9
+105,Sawah Lebar,2020,9,198.5
+106,Sawah Lebar,2020,10,149.6
+107,Sawah Lebar,2020,11,358.8
+108,Sawah Lebar,2020,12,273.2
+109,Sawah Lebar,2021,1,386.4
+110,Sawah Lebar,2021,2,398.7
+111,Sawah Lebar,2021,3,265.6
+112,Sawah Lebar,2021,4,258.0
+113,Sawah Lebar,2021,5,186.7
+114,Sawah Lebar,2021,6,471.9
+115,Sawah Lebar,2021,7,165.0
+116,Sawah Lebar,2021,8,372.7
+117,Sawah Lebar,2021,9,294.9
+118,Sawah Lebar,2021,10,333.5
+119,Sawah Lebar,2021,11,156.4
+120,Sawah Lebar,2021,12,404.7
+121,Sawah Lebar,2022,1,363.4
+122,Sawah Lebar,2022,2,375.4
+123,Sawah Lebar,2022,3,186.5
+124,Sawah Lebar,2022,4,265.6
+125,Sawah Lebar,2022,5,379.5
+126,Sawah Lebar,2022,6,284.7
+127,Sawah Lebar,2022,7,144.6
+128,Sawah Lebar,2022,8,402.6
+129,Sawah Lebar,2022,9,231.3
+130,Sawah Lebar,2022,10,361.8
+131,Sawah Lebar,2022,11,392.7
+132,Sawah Lebar,2022,12,359.1
+133,Sawah Lebar,2023,1,300.1
+134,Sawah Lebar,2023,2,360.9
+135,Sawah Lebar,2023,3,358.5
+136,Sawah Lebar,2023,4,121.6
+137,Sawah Lebar,2023,5,462.5
+138,Sawah Lebar,2023,6,118.4
+139,Sawah Lebar,2023,7,239.8
+140,Sawah Lebar,2023,8,165.0
+141,Sawah Lebar,2023,9,228.6
+142,Sawah Lebar,2023,10,226.4
+143,Sawah Lebar,2023,11,356.1
+144,Sawah Lebar,2023,12,326.8
+145,Bentiring,2020,1,198.6
+146,Bentiring,2020,2,449.0
+147,Bentiring,2020,3,481.0
+148,Bentiring,2020,4,354.2
+149,Bentiring,2020,5,239.4
+150,Bentiring,2020,6,158.6
+151,Bentiring,2020,7,360.4
+152,Bentiring,2020,8,124.3
+153,Bentiring,2020,9,237.1
+154,Bentiring,2020,10,183.5
+155,Bentiring,2020,11,370.2
+156,Bentiring,2020,12,433.0
+157,Bentiring,2021,1,274.6
+158,Bentiring,2021,2,486.4
+159,Bentiring,2021,3,143.1
+160,Bentiring,2021,4,123.1
+161,Bentiring,2021,5,228.7
+162,Bentiring,2021,6,144.2
+163,Bentiring,2021,7,311.2
+164,Bentiring,2021,8,230.5
+165,Bentiring,2021,9,482.3
+166,Bentiring,2021,10,452.4
+167,Bentiring,2021,11,233.9
+168,Bentiring,2021,12,388.4
+169,Bentiring,2022,1,467.7
+170,Bentiring,2022,2,139.1
+171,Bentiring,2022,3,376.0
+172,Bentiring,2022,4,296.9
+173,Bentiring,2022,5,341.0
+174,Bentiring,2022,6,385.0
+175,Bentiring,2022,7,438.8
+176,Bentiring,2022,8,128.0
+177,Bentiring,2022,9,122.0
+178,Bentiring,2022,10,177.8
+179,Bentiring,2022,11,192.3
+180,Bentiring,2022,12,276.6
+181,Bentiring,2023,1,204.1
+182,Bentiring,2023,2,124.4
+183,Bentiring,2023,3,148.1
+184,Bentiring,2023,4,162.0
+185,Bentiring,2023,5,248.7
+186,Bentiring,2023,6,344.7
+187,Bentiring,2023,7,407.6
+188,Bentiring,2023,8,430.3
+189,Bentiring,2023,9,185.5
+190,Bentiring,2023,10,276.2
+191,Bentiring,2023,11,140.5
+192,Bentiring,2023,12,426.6
+193,Air Sebakul,2020,1,498.4
+194,Air Sebakul,2020,2,211.6
+195,Air Sebakul,2020,3,325.4
+196,Air Sebakul,2020,4,197.3
+197,Air Sebakul,2020,5,468.7
+198,Air Sebakul,2020,6,132.1
+199,Air Sebakul,2020,7,347.9
+200,Air Sebakul,2020,8,243.1
+201,Air Sebakul,2020,9,221.2
+202,Air Sebakul,2020,10,336.7
+203,Air Sebakul,2020,11,185.8
+204,Air Sebakul,2020,12,492.9
+205,Air Sebakul,2021,1,405.0
+206,Air Sebakul,2021,2,191.4
+207,Air Sebakul,2021,3,136.2
+208,Air Sebakul,2021,4,279.1
+209,Air Sebakul,2021,5,112.1
+210,Air Sebakul,2021,6,230.2
+211,Air Sebakul,2021,7,326.2
+212,Air Sebakul,2021,8,189.4
+213,Air Sebakul,2021,9,182.2
+214,Air Sebakul,2021,10,108.1
+215,Air Sebakul,2021,11,324.3
+216,Air Sebakul,2021,12,464.9
+217,Air Sebakul,2022,1,134.2
+218,Air Sebakul,2022,2,106.6
+219,Air Sebakul,2022,3,102.6
+220,Air Sebakul,2022,4,299.2
+221,Air Sebakul,2022,5,315.9
+222,Air Sebakul,2022,6,406.1
+223,Air Sebakul,2022,7,288.1
+224,Air Sebakul,2022,8,258.6
+225,Air Sebakul,2022,9,281.2
+226,Air Sebakul,2022,10,141.7
+227,Air Sebakul,2022,11,443.9
+228,Air Sebakul,2022,12,144.4
+229,Air Sebakul,2023,1,201.1
+230,Air Sebakul,2023,2,329.9
+231,Air Sebakul,2023,3,342.3
+232,Air Sebakul,2023,4,203.2
+233,Air Sebakul,2023,5,179.8
+234,Air Sebakul,2023,6,404.0
+235,Air Sebakul,2023,7,433.4
+236,Air Sebakul,2023,8,132.1
+237,Air Sebakul,2023,9,269.3
+238,Air Sebakul,2023,10,443.7
+239,Air Sebakul,2023,11,240.5
+240,Air Sebakul,2023,12,312.6
+241,Pematang Gubernur,2020,1,101.4
+242,Pematang Gubernur,2020,2,228.7
+243,Pematang Gubernur,2020,3,186.4
+244,Pematang Gubernur,2020,4,385.4
+245,Pematang Gubernur,2020,5,254.3
+246,Pematang Gubernur,2020,6,152.5
+247,Pematang Gubernur,2020,7,465.3
+248,Pematang Gubernur,2020,8,381.3
+249,Pematang Gubernur,2020,9,364.8
+250,Pematang Gubernur,2020,10,187.8
+251,Pematang Gubernur,2020,11,458.1
+252,Pematang Gubernur,2020,12,327.6
+253,Pematang Gubernur,2021,1,118.6
+254,Pematang Gubernur,2021,2,458.0
+255,Pematang Gubernur,2021,3,260.6
+256,Pematang Gubernur,2021,4,202.0
+257,Pematang Gubernur,2021,5,177.7
+258,Pematang Gubernur,2021,6,364.4
+259,Pematang Gubernur,2021,7,254.7
+260,Pematang Gubernur,2021,8,394.1
+261,Pematang Gubernur,2021,9,405.8
+262,Pematang Gubernur,2021,10,403.4
+263,Pematang Gubernur,2021,11,150.0
+264,Pematang Gubernur,2021,12,131.7
+265,Pematang Gubernur,2022,1,352.0
+266,Pematang Gubernur,2022,2,348.5
+267,Pematang Gubernur,2022,3,250.0
+268,Pematang Gubernur,2022,4,431.9
+269,Pematang Gubernur,2022,5,133.9
+270,Pematang Gubernur,2022,6,192.9
+271,Pematang Gubernur,2022,7,355.1
+272,Pematang Gubernur,2022,8,373.0
+273,Pematang Gubernur,2022,9,187.6
+274,Pematang Gubernur,2022,10,115.2
+275,Pematang Gubernur,2022,11,295.5
+276,Pematang Gubernur,2022,12,450.6
+277,Pematang Gubernur,2023,1,327.9
+278,Pematang Gubernur,2023,2,276.6
+279,Pematang Gubernur,2023,3,374.3
+280,Pematang Gubernur,2023,4,355.7
+281,Pematang Gubernur,2023,5,187.4
+282,Pematang Gubernur,2023,6,144.3
+283,Pematang Gubernur,2023,7,157.1
+284,Pematang Gubernur,2023,8,175.5
+285,Pematang Gubernur,2023,9,475.0
+286,Pematang Gubernur,2023,10,131.6
+287,Pematang Gubernur,2023,11,439.2
+288,Pematang Gubernur,2023,12,233.9
+289,Padang Harapan,2020,1,486.0
+290,Padang Harapan,2020,2,373.2
+291,Padang Harapan,2020,3,151.6
+292,Padang Harapan,2020,4,481.8
+293,Padang Harapan,2020,5,284.4
+294,Padang Harapan,2020,6,301.2
+295,Padang Harapan,2020,7,182.7
+296,Padang Harapan,2020,8,215.1
+297,Padang Harapan,2020,9,479.7
+298,Padang Harapan,2020,10,406.8
+299,Padang Harapan,2020,11,473.4
+300,Padang Harapan,2020,12,410.7
+301,Padang Harapan,2021,1,164.8
+302,Padang Harapan,2021,2,264.1
+303,Padang Harapan,2021,3,301.5
+304,Padang Harapan,2021,4,230.1
+305,Padang Harapan,2021,5,353.2
+306,Padang Harapan,2021,6,274.4
+307,Padang Harapan,2021,7,169.2
+308,Padang Harapan,2021,8,244.7
+309,Padang Harapan,2021,9,377.7
+310,Padang Harapan,2021,10,203.0
+311,Padang Harapan,2021,11,436.1
+312,Padang Harapan,2021,12,204.5
+313,Padang Harapan,2022,1,465.9
+314,Padang Harapan,2022,2,278.5
+315,Padang Harapan,2022,3,201.6
+316,Padang Harapan,2022,4,393.7
+317,Padang Harapan,2022,5,146.1
+318,Padang Harapan,2022,6,274.6
+319,Padang Harapan,2022,7,162.0
+320,Padang Harapan,2022,8,443.9
+321,Padang Harapan,2022,9,434.4
+322,Padang Harapan,2022,10,377.6
+323,Padang Harapan,2022,11,433.1
+324,Padang Harapan,2022,12,462.8
+325,Padang Harapan,2023,1,387.9
+326,Padang Harapan,2023,2,269.3
+327,Padang Harapan,2023,3,358.6
+328,Padang Harapan,2023,4,485.5
+329,Padang Harapan,2023,5,342.9
+330,Padang Harapan,2023,6,203.0
+331,Padang Harapan,2023,7,489.2
+332,Padang Harapan,2023,8,242.5
+333,Padang Harapan,2023,9,190.1
+334,Padang Harapan,2023,10,362.5
+335,Padang Harapan,2023,11,312.3
+336,Padang Harapan,2023,12,275.4
+337,Panorama,2020,1,373.4
+338,Panorama,2020,2,181.9
+339,Panorama,2020,3,340.6
+340,Panorama,2020,4,175.3
+341,Panorama,2020,5,179.7
+342,Panorama,2020,6,447.2
+343,Panorama,2020,7,250.5
+344,Panorama,2020,8,355.1
+345,Panorama,2020,9,400.3
+346,Panorama,2020,10,283.1
+347,Panorama,2020,11,280.9
+348,Panorama,2020,12,456.4
+349,Panorama,2021,1,119.8
+350,Panorama,2021,2,456.2
+351,Panorama,2021,3,232.9
+352,Panorama,2021,4,409.6
+353,Panorama,2021,5,141.4
+354,Panorama,2021,6,182.7
+355,Panorama,2021,7,488.1
+356,Panorama,2021,8,381.6
+357,Panorama,2021,9,300.2
+358,Panorama,2021,10,374.0
+359,Panorama,2021,11,108.8
+360,Panorama,2021,12,401.4
+361,Panorama,2022,1,320.3
+362,Panorama,2022,2,144.4
+363,Panorama,2022,3,468.6
+364,Panorama,2022,4,172.7
+365,Panorama,2022,5,263.4
+366,Panorama,2022,6,419.2
+367,Panorama,2022,7,496.2
+368,Panorama,2022,8,235.6
+369,Panorama,2022,9,208.1
+370,Panorama,2022,10,425.8
+371,Panorama,2022,11,377.0
+372,Panorama,2022,12,488.1
+373,Panorama,2023,1,372.6
+374,Panorama,2023,2,434.8
+375,Panorama,2023,3,483.2
+376,Panorama,2023,4,212.7
+377,Panorama,2023,5,200.4
+378,Panorama,2023,6,125.3
+379,Panorama,2023,7,322.2
+380,Panorama,2023,8,301.8
+381,Panorama,2023,9,476.1
+382,Panorama,2023,10,158.5
+383,Panorama,2023,11,393.6
+384,Panorama,2023,12,254.6

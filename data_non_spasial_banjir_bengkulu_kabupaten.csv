@@ -1,0 +1,11 @@
+ID,Lokasi,Curah Hujan (mm),Ketinggian (mdpl),Kemiringan Lereng (%),Penggunaan Lahan,Pernah Banjir,Tahun Kejadian
+1,Kota Bengkulu,352,109,9.2,Hutan Sekunder,1,2021
+2,Bengkulu Selatan,342,161,6.5,Sawah,0,-
+3,Bengkulu Tengah,264,140,12.6,Lahan Terbuka,0,2021
+4,Bengkulu Utara,356,159,3.7,Sawah,0,2021
+5,Kaur,321,267,6.6,Lahan Terbuka,0,-
+6,Kepahiang,270,201,8.0,Hutan Sekunder,1,2023
+7,Lebong,352,286,9.7,Permukiman,1,2021
+8,Muko Muko,371,170,15.9,Perkebunan,1,2021
+9,Rejang Lebong,324,31,4.8,Hutan Sekunder,0,-
+10,Seluma,337,262,10.8,Perkebunan,0,2021
